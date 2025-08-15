@@ -3,3 +3,4 @@ uvicorn
 pytesseract
 pdf2image
 weasyprint
+python-multipart
